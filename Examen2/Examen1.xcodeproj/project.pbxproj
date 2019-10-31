@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C3A2252C236B5DB400DBE6E6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3A2252B236B5DB400DBE6E6 /* ViewController.swift */; };
 		C3C3254A2334F8B600DFE471 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C325492334F8B600DFE471 /* AppDelegate.swift */; };
 		C3C3254F2334F8B600DFE471 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3C3254D2334F8B600DFE471 /* Main.storyboard */; };
 		C3C325512334F8B800DFE471 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3C325502334F8B800DFE471 /* Assets.xcassets */; };
@@ -16,7 +17,6 @@
 		C3C325622334FBAC00DFE471 /* album2.png in Resources */ = {isa = PBXBuildFile; fileRef = C3C3255E2334FBAC00DFE471 /* album2.png */; };
 		C3C325632334FBAC00DFE471 /* album4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C3C3255F2334FBAC00DFE471 /* album4.jpg */; };
 		C3C3257E2334FC6300DFE471 /* comprasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C325762334FC6200DFE471 /* comprasViewController.swift */; };
-		C3C3257F2334FC6300DFE471 /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C325772334FC6200DFE471 /* InfoViewController.swift */; };
 		C3C325802334FC6300DFE471 /* albumContenido.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C325782334FC6200DFE471 /* albumContenido.swift */; };
 		C3C325812334FC6300DFE471 /* DiscografiaTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C325792334FC6200DFE471 /* DiscografiaTableViewController.swift */; };
 		C3C325822334FC6300DFE471 /* feliciadesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C3257A2334FC6200DFE471 /* feliciadesViewController.swift */; };
@@ -26,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C3A2252B236B5DB400DBE6E6 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C3C325462334F8B600DFE471 /* Examen1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Examen1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3C325492334F8B600DFE471 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3C3254E2334F8B600DFE471 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -37,7 +38,6 @@
 		C3C3255E2334FBAC00DFE471 /* album2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = album2.png; sourceTree = "<group>"; };
 		C3C3255F2334FBAC00DFE471 /* album4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = album4.jpg; sourceTree = "<group>"; };
 		C3C325762334FC6200DFE471 /* comprasViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = comprasViewController.swift; sourceTree = "<group>"; };
-		C3C325772334FC6200DFE471 /* InfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
 		C3C325782334FC6200DFE471 /* albumContenido.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = albumContenido.swift; sourceTree = "<group>"; };
 		C3C325792334FC6200DFE471 /* DiscografiaTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscografiaTableViewController.swift; sourceTree = "<group>"; };
 		C3C3257A2334FC6200DFE471 /* feliciadesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = feliciadesViewController.swift; sourceTree = "<group>"; };
@@ -79,8 +79,8 @@
 				C3C325782334FC6200DFE471 /* albumContenido.swift */,
 				C3C325792334FC6200DFE471 /* DiscografiaTableViewController.swift */,
 				C3C3257C2334FC6300DFE471 /* DetailViewController.swift */,
-				C3C325772334FC6200DFE471 /* InfoViewController.swift */,
 				C3C3257D2334FC6300DFE471 /* SouvenirsViewController.swift */,
+				C3A2252B236B5DB400DBE6E6 /* ViewController.swift */,
 				C3C325762334FC6200DFE471 /* comprasViewController.swift */,
 				C3C3257B2334FC6200DFE471 /* TriviaViewController.swift */,
 				C3C3257A2334FC6200DFE471 /* feliciadesViewController.swift */,
@@ -183,9 +183,9 @@
 				C3C325842334FC6300DFE471 /* DetailViewController.swift in Sources */,
 				C3C325852334FC6300DFE471 /* SouvenirsViewController.swift in Sources */,
 				C3C325812334FC6300DFE471 /* DiscografiaTableViewController.swift in Sources */,
+				C3A2252C236B5DB400DBE6E6 /* ViewController.swift in Sources */,
 				C3C3257E2334FC6300DFE471 /* comprasViewController.swift in Sources */,
 				C3C325832334FC6300DFE471 /* TriviaViewController.swift in Sources */,
-				C3C3257F2334FC6300DFE471 /* InfoViewController.swift in Sources */,
 				C3C325822334FC6300DFE471 /* feliciadesViewController.swift in Sources */,
 				C3C3254A2334F8B600DFE471 /* AppDelegate.swift in Sources */,
 				C3C325802334FC6300DFE471 /* albumContenido.swift in Sources */,
