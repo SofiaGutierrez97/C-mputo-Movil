@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C331CDA02363CBEF000BA7AF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C331CD9F2363CBEF000BA7AF /* ViewController.swift */; };
 		C3C3254A2334F8B600DFE471 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3C325492334F8B600DFE471 /* AppDelegate.swift */; };
 		C3C3254F2334F8B600DFE471 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3C3254D2334F8B600DFE471 /* Main.storyboard */; };
 		C3C325512334F8B800DFE471 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3C325502334F8B800DFE471 /* Assets.xcassets */; };
@@ -27,7 +26,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C331CD9F2363CBEF000BA7AF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C3C325462334F8B600DFE471 /* Examen1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Examen1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3C325492334F8B600DFE471 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3C3254E2334F8B600DFE471 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -88,7 +86,6 @@
 				C3C3257A2334FC6200DFE471 /* feliciadesViewController.swift */,
 				C3C325492334F8B600DFE471 /* AppDelegate.swift */,
 				C3C3254D2334F8B600DFE471 /* Main.storyboard */,
-				C331CD9F2363CBEF000BA7AF /* ViewController.swift */,
 				C3C3255B2334FBAC00DFE471 /* imagenes */,
 				C3C325502334F8B800DFE471 /* Assets.xcassets */,
 				C3C325522334F8B800DFE471 /* LaunchScreen.storyboard */,
@@ -183,7 +180,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C331CDA02363CBEF000BA7AF /* ViewController.swift in Sources */,
 				C3C325842334FC6300DFE471 /* DetailViewController.swift in Sources */,
 				C3C325852334FC6300DFE471 /* SouvenirsViewController.swift in Sources */,
 				C3C325812334FC6300DFE471 /* DiscografiaTableViewController.swift in Sources */,
